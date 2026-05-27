@@ -21,8 +21,8 @@
     <td align="center"><b>🔍 Explorar</b></td>
   </tr>
   <tr>
-    <td><img src="tela_principal.png" alt="Tela principal do Netflix Clone" width="100%"/></td>
-    <td><img src="explorar.png" alt="Página de explorar filmes e séries" width="100%"/></td>
+    <td><img src="https://github.com/RodrigoRuan2/netflix-dashboard/raw/main/tela_principal.png" alt="Tela principal do Netflix Clone" width="100%"/></td>
+    <td><img src="https://github.com/RodrigoRuan2/netflix-dashboard/raw/main/explorar.png" alt="Página de explorar filmes e séries" width="100%"/></td>
   </tr>
 </table>
 
