@@ -1,5 +1,5 @@
 <div align="center">
-
+a
 # 🎬 Netflix Clone
 
 **Interface inspirada na Netflix com filmes e séries em tempo real**
