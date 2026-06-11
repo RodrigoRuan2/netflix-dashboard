@@ -2,7 +2,7 @@
 
 # 🎬 Netflix Clone
 
-**Interface inspirada na Netflix com filmes e séries em tempo real*
+**Interface inspirada na Netflix com filmes e séries em tempo real**
 
 [![Deploy](https://img.shields.io/badge/🔗_Deploy-GitHub_Pages-blue?style=flat-square)](https://RodrigoRuan2.github.io/netflix-dashboard/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev/)
